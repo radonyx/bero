@@ -216,9 +216,9 @@
               "src": "@PROJECT_PATH@/assets/images/fullsizerender-229x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "#top",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
