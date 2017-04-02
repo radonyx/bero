@@ -118,7 +118,7 @@
           },
           "title": "Mercedes Benz Sprinter 311 CDI",
           "text": "Mieten Sie den vielseitig einsetzbaren Mercedes Benz Sprinter",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#contacts4-2\" data-toolbar=\"-mbrBtnMove\">Kontakt</a>"
         },
         {
           "_name": "footer1",
@@ -312,11 +312,11 @@
                 "overlay": true,
                 "overlayOpacity": "0.6",
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "IMAGE SLIDE",
-                "showText": true,
+                "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
